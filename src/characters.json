@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Yoda",
+    "image": "https://i.pinimg.com/originals/8a/7d/1f/8a7d1f40a77f99f287c3f2f1eff0d392.jpg"
+  },
+  {
+    "name": "Obi-Wan-Kenobi",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Darth Vader",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Mace Windu",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Anakin Skywalker",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Darth Maul",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Darth Sidious",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Padme Amidala",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Kit Fisto",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "R2-D2",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "C3PO",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  },
+  {
+    "name": "Plo Koon",
+    "image": "https://moviehole.net/img/kenobi.jpg"
+  }
+]
